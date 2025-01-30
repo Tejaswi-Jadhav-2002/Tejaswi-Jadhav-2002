@@ -22,12 +22,19 @@ The information related to variables given can be found in the Data Information.
 4. Deliverables
    
 ● Exploratory Data Analysis (EDA) with visualizations and summary statistics.
+
 ● Data Preprocessing, including handling missing values and encoding categorical
+
 variables.
+
 ● Model development using:
+
 o Simple Linear Regression
+
 o Multiple Linear Regression
+
 ● Evaluation of the models using relevant metrics (Confusion Matrix, Precision, Recall,
 F1-Score, etc.) where applicable.
+
 ● A final, well-documented notebook detailing all steps, insights, and the final model
 selection.
